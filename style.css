@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background: #46474A;
+	font-family: 'Raleway', sans-serif;
+	color: #FFFFFF;
+	line-height: 1.6;
+}	
+	
+table, th, td {
+  	border: 10px;
+}
+
+
+h2 {
+	
+	font-size: 22px;
+}
+
+h3 {
+	
+	font-size: 18px;	
+}
+
+
+a {
+	
+	color:aquamarine;	
+}
+
+a:hover {
+	
+	
+	color:darkcyan;
+}
+
+
+p {
+	
+	font-size: 14px;
+	
+}
